@@ -1,5 +1,5 @@
-# ScottsdaleEZ Power BI Dashboard
+# ScottsdaleEZ Predictive Model
 
-Sanitized project materials for the ScottsdaleEZ Power BI decision-support dashboard.
+Sanitized project materials for the ScottsdaleEZ predictive analytics capstone.
 
-This section will include dashboard screenshots, page summaries, data model notes, and interpretation guidance for operational users.
+This section will include methodology notes, selected model outputs, performance summaries, and screenshots showing how the model supports municipal decision-making.
