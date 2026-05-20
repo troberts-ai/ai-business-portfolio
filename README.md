@@ -2,9 +2,9 @@
 
 Selected applied AI, analytics, governance, and data visualization projects demonstrating how I translate domain knowledge in medicine and law into practical decision-support systems.
 
-My background combines oncology, corporate legal training, healthcare operations, governance, and applied AI. This portfolio reflects that intersection: building analytical workflows for high-stakes environments where outputs must be useful, explainable, auditable, and operationally relevant.
+My background combines oncology, healthcare operations, legal/governance training, and applied AI. This portfolio reflects that intersection: building analytical workflows for high-stakes environments where outputs must be useful, explainable, auditable, and operationally relevant.
 
-The projects include sanitized summaries, screenshots, selected outputs, methodology notes, and visualization files from applied work completed during my Master of Science in Artificial Intelligence in Business at Arizona State University's W. P. Carey School of Business.
+The projects include sanitized summaries, screenshots, selected outputs, methodology notes, and public-safe visualization examples from applied work completed during my Master of Science in Artificial Intelligence in Business at Arizona State University's W. P. Carey School of Business.
 
 This repository is intended as a public portfolio companion to my LinkedIn profile and professional outreach.
 
@@ -23,20 +23,20 @@ A municipal predictive analytics capstone for the City of Scottsdale. The model 
 
 ### 2. ScottsdaleEZ Power BI Dashboard
 
-A Power BI decision-support layer translating model outputs and service-request data into operational views for city staff. Helps users review predicted concerns, service target performance, request completion patterns, and seasonal changes.
+A Power BI decision-support layer translating model outputs and service-request data into operational views for city staff. Includes a public dashboard-refresh workflow and City-approved poster artifact with contact details removed.
 
-**Methods & tools:** Power BI. Five-tab structure — Overview · Hotspots & Predictions · Workgroup + SLA Performance · Resolution Time Distribution · Seasonal Comparison.
+**Methods & tools:** Power BI, dashboard refresh workflow, forecast interpretation, and public poster summary.
 
 **Focus areas:**
 - Operational dashboards and forecast interpretation
 - Decision support for nontechnical users
 - Executive communication
 
-### 3. Selected Tableau Visualization Examples
+### 3. Tableau Visualization Examples
 
-Selected Tableau workbooks and representative screenshots focused on dashboard design, chart selection, visual storytelling, and business communication.
+Selected Tableau screenshots focused on dashboard design, chart selection, visual storytelling, geospatial analysis, and business communication.
 
-**Methods & tools:** Tableau Desktop, Tableau Public.
+**Methods & tools:** Tableau Desktop, Tableau Public, storybook navigation, geospatial route mapping, Gantt-style deviation analysis, and custom background-image visualization.
 
 **Focus areas:**
 - Tableau dashboard design and chart selection
@@ -45,7 +45,7 @@ Selected Tableau workbooks and representative screenshots focused on dashboard d
 ## Portfolio Principles
 
 - Business use comes first — analytical outputs should support decisions, not create false precision.
-- Governance, validation, and explainability matter in regulated environments — a habit carried over from clinical practice and corporate legal work.
+- Governance, validation, and explainability matter in regulated environments — a habit carried over from clinical practice and legal/governance work.
 - Dashboards and models should be usable by real operators, not only technical teams.
 - Public artifacts are sanitized to protect partner/client data, restricted course materials, and proprietary work.
 
