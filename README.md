@@ -8,7 +8,7 @@ The projects include sanitized summaries, screenshots, selected outputs, methodo
 
 This repository is intended as a public portfolio companion to my LinkedIn profile and professional outreach.
 
-LinkedIn: linkedin.com/in/terence-roberts-02951685
+LinkedIn: [Terence Roberts](https://www.linkedin.com/in/terence-roberts-02951685/)
 
 ## Featured Projects
 
