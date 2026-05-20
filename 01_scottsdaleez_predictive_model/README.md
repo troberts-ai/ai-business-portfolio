@@ -32,6 +32,3 @@ The predictions should be used for prioritization and early warning, not exact-v
 ## Public Portfolio Note
 
 This folder includes sanitized summary documentation only. It does not include raw city data, full model outputs, model artifacts, S3 paths, notebooks, API keys, or private operational materials.
-## Public Portfolio Note
-
-This folder includes sanitized summary documentation only. It does not include raw city data, full model outputs, model artifacts, S3 paths, notebooks, API keys, or private operational materials.
