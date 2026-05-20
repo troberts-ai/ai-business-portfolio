@@ -1,8 +1,10 @@
 # ScottsdaleEZ Predictive Model
 
+Part of the [AI Business Portfolio](../README.md).
+
 Public portfolio folder for the ScottsdaleEZ predictive analytics capstone.
 
-This project developed a municipal decision-support pipeline for forecasting next-month ScottsdaleEZ service request volume by ZIP code and request type. The goal was to support early warning, operational planning, and executive review rather than exact deterministic prediction.
+This project developed a municipal decision-support pipeline for forecasting next-month service request volume for the City of Scottsdale by ZIP code and request type. The goal was to support early warning, operational planning, and executive review rather than exact deterministic prediction.
 
 ## Included Files
 
@@ -21,14 +23,15 @@ The model outputs are intended for:
 
 - Ranking predicted service concerns by ZIP code
 - Identifying possible next-month hotspots
-- Supporting early operational review
-- Informing staff planning and dashboard refreshes
-- Helping nontechnical users interpret forecast signals
+- Supporting operational review and staff planning
 
 ## Important Interpretation Note
 
 The predictions should be used for prioritization and early warning, not exact-volume prediction. ZIP-level outputs are directional decision-support signals and should be interpreted with known geographic and data-quality limitations.
 
+## Public Portfolio Note
+
+This folder includes sanitized summary documentation only. It does not include raw city data, full model outputs, model artifacts, S3 paths, notebooks, API keys, or private operational materials.
 ## Public Portfolio Note
 
 This folder includes sanitized summary documentation only. It does not include raw city data, full model outputs, model artifacts, S3 paths, notebooks, API keys, or private operational materials.
